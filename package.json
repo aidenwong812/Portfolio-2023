@@ -2,7 +2,7 @@
   "name": "aidenwong-portfolio",
   "version": "3.0.0",
   "private": true,
-  "homepage": "https://vivek9patel.github.io/",
+  "homepage": "https://portfolio-2023-aiden.vercel.app/",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
