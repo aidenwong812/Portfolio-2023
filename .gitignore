@@ -163,3 +163,6 @@ yarn-error.log*
 
 # vercel
 .vercel
+
+# IDE
+.vscode

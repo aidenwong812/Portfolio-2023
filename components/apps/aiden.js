@@ -251,6 +251,7 @@ function Skills() {
           <a href="https://www.linux.org/" target="_blank"><img className=" inline m-1" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" width="30" alt="aiden linux" /></a>
           <a href="https://aws.amazon.com/" target="_blank"><img className=" inline m-1" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" width="30" alt="aiden aws" style={{ backgroundColor: "white" }} /></a>
           <a href="https://azure.microsoft.com/" target="_blank"><img className=" inline m-1" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" width="30" alt="aiden azure" /></a>
+          <a href="https://www.docker.com/" target="_blank"><img className=" inline m-1" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" width="30" alt="aiden docker" /></a>
         </li>
       </ul>
       <div className=" font-medium relative text-2xl mt-2 md:mt-4 mb-4">
