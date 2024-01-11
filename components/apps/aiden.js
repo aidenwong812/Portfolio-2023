@@ -304,24 +304,24 @@ function Projects() {
       ],
       domains: ["javascript", "next.js", "tailwindcss"]
     },
-    // {
-    //   name: "Chrome Extension React Bolierplate",
-    //   date: "Dec 2021",
-    //   link: "https://github.com/vivek9patel/chrome-extension-react-boilerplate",
-    //   description: [
-    //     "A boilerplate code to build a chrome extension with react and webpack",
-    //   ],
-    //   domains: ["javascript", "chrome-extension"]
-    // },
-    // {
-    //   name: "CodeConnect",
-    //   date: "Nov 2021",
-    //   link: "https://github.com/vivek9patel/CodeConnect-frontend",
-    //   description: [
-    //     "A multi-language pair-programming platform with the features of video meeting and whiteboard. Built with React.js, Tailwind CSS, Chakra UI, Express & Socket.io.",
-    //   ],
-    //   domains: ["javascript", "tailwindcss"]
-    // },
+    {
+      name: "React vite tailwindcss template",
+      date: "Nov 2023",
+      link: "https://github.com/aidenwong812/React-vite-tailwindcss-daisyui-typescript-template",
+      description: [
+        "This is the React Vite Tailwindcss template",
+      ],
+      domains: ["typescript", "react", "tailwindcss"]
+    },
+    {
+      name: "Character Walk",
+      date: "Jan 2024",
+      link: "https://github.com/aidenwong812/character-walk-three.js",
+      description: [
+        "This is the three.js character walk in town.",
+      ],
+      domains: ["typescript", "three.js"]
+    },
     // {
     //   name: "Ad Free Spotify",
     //   date: "Jun 2021",
