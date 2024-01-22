@@ -230,6 +230,9 @@ function Skills() {
             <a href="https://svelte.dev/" target="_blank"><img className="m-1" src="/images/logos/svelte-logo.5c5d7d20.svg" width="30" alt="aiden svelte" /></a>
             <a href="https://vuejs.org/" target="_blank"><img className="m-1" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" width="30" alt="aiden vue" /></a>
             <a href="https://nuxtjs.org/" target="_blank"><img className="m-1" src="https://profilinator.rishav.dev/skills-assets/nuxt.png" width="30" alt="aiden nuxt" /></a>
+            <a href="https://remix.run/" target="_blank"><img className="m-1" src="https://cdn.discordapp.com/icons/770287896669978684/e1e3ff1c3519034de5b462ee06e3b6f9.webp?size=64" width="30" alt="aiden remix" /></a>
+            <a href="https://astro.build/" target="_blank"><img className="m-1" src="https://profilinator.rishav.dev/skills-assets/astro.svg" width="30" alt="aiden remix" /></a>
+            <a href="https://turbo.build/" target="_blank"><img className="m-1" src="/images/logos/turbo-logo-dark.svg" width="30" alt="aiden turbo" /></a>
             <a href="https://flask.palletsprojects.com/" target="_blank"><img className="m-1" src="https://profilinator.rishav.dev/skills-assets/flask.png" width="30" alt="aiden flask" style={{ backgroundColor: "white" }} /></a>
             <a href="https://reactnative.dev/" target="_blank"><img className="m-1" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" width="30" alt="aiden react" /></a>
             <a href="https://www.ionicframework.com/" target="_blank"><img className="m-1" src="https://profilinator.rishav.dev/skills-assets/ionic.svg" width="30" alt="aiden ionic" /></a>
@@ -321,6 +324,15 @@ function Projects() {
         "This is the three.js character walk in town.",
       ],
       domains: ["typescript", "three.js"]
+    },
+    {
+      name: "Next.js E-commerce Website",
+      date: "Jan 2024",
+      link: "https://github.com/kyh/williamsburg",
+      description: [
+        "E-commerce website built with Next.js and Astro",
+      ],
+      domains: ["typescript", "Next.js", "Astro", "MDX"]
     },
     // {
     //   name: "Ad Free Spotify",
