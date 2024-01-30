@@ -205,6 +205,8 @@ function Skills() {
         <div className="px-2 w-1/2">
           <div className="flex flex-wrap justify-center items-start w-full mt-2">
             <a href="https://www.cplusplus.com/" target="_blank"><img className="m-1" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" width="30" alt="aiden c++" /></a>
+            <a href="https://www.rust-lang.org/" target="_blank"><img className="m-1" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" width="30" alt="aiden Rust" /></a>
+            <a href="https://www.ruby-lang.org/en/" target="_blank"><img className="m-1" src="https://profilinator.rishav.dev/skills-assets/ruby-original-wordmark.svg" width="30" alt="aiden Ruby" /></a>
             <a href="https://www.javascript.com/" target="_blank"><img className="m-1" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" width="30" alt="aiden javascript" /></a>
             <a href="https://www.typescriptlang.com/" target="_blank"><img className="m-1" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" width="30" alt="aiden typescript" /></a>
             <a href="https://www.python.org/" target="_blank"><img className="m-1" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" width="30" alt="aiden python" /></a>
@@ -233,6 +235,7 @@ function Skills() {
             <a href="https://remix.run/" target="_blank"><img className="m-1" src="https://cdn.discordapp.com/icons/770287896669978684/e1e3ff1c3519034de5b462ee06e3b6f9.webp?size=64" width="30" alt="aiden remix" /></a>
             <a href="https://astro.build/" target="_blank"><img className="m-1" src="https://profilinator.rishav.dev/skills-assets/astro.svg" width="30" alt="aiden remix" /></a>
             <a href="https://turbo.build/" target="_blank"><img className="m-1" src="/images/logos/turbo-logo-dark.svg" width="30" alt="aiden turbo" /></a>
+            <a href="https://rubyonrails.org/" target="_blank"><img className="m-1" src="https://profilinator.rishav.dev/skills-assets/rails-original-wordmark.svg" width="30" alt="aiden ruby on rail" /></a>
             <a href="https://flask.palletsprojects.com/" target="_blank"><img className="m-1" src="https://profilinator.rishav.dev/skills-assets/flask.png" width="30" alt="aiden flask" style={{ backgroundColor: "white" }} /></a>
             <a href="https://reactnative.dev/" target="_blank"><img className="m-1" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" width="30" alt="aiden react" /></a>
             <a href="https://www.ionicframework.com/" target="_blank"><img className="m-1" src="https://profilinator.rishav.dev/skills-assets/ionic.svg" width="30" alt="aiden ionic" /></a>
