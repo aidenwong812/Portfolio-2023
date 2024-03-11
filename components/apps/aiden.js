@@ -130,20 +130,20 @@ function About() {
       </div>
       <div className=" mt-4 md:mt-8 text-lg md:text-2xl text-center px-1">
         <div>My name is <span className="font-bold">Aiden Wong</span> ,</div>
-        <div className="font-normal ml-1">I'm a <span className="text-pink-600 font-bold">Senior Software Engineer!</span></div>
+        <div className="font-normal ml-1">I'm a <span className="text-pink-600 font-bold">Full Stack Software Engineer!</span></div>
       </div>
       <div className=" mt-4 relative md:my-8 pt-px bg-white w-32 md:w-48">
         <div className="bg-white absolute rounded-full p-0.5 md:p-1 top-0 transform -translate-y-1/2 left-0"></div>
         <div className="bg-white absolute rounded-full p-0.5 md:p-1 top-0 transform -translate-y-1/2 right-0"></div>
       </div>
       <ul className=" mt-4 leading-tight tracking-tight text-sm md:text-base w-5/6 md:w-3/4 emoji-list">
-        <li className=" list-pc">Passionate Software Engineer with 8+ years of experience in
+        <li className=" list-pc">Software Engineer with 5+ years of experience in
           developing web applications and backend systems.</li>
-        <li className=" list-pc">Results-oriented Web Developer and AI Engineer with a strong background
+        {/* <li className=" list-pc">Results-oriented Web Developer and AI Engineer with a strong background
           in front-end web development, AI algorithms and models development, and web application development using AI.</li>
         <li className=" mt-3 list-pc">
           I prioritize relationships above monetary gain.
-          ( Hit me up <a className='text-underline' href='mailto:wongaiden812@gmail.com'><u>@wongaiden812@gmail.com</u></a> :) )</li>
+          ( Hit me up <a className='text-underline' href='mailto:wongaiden812@gmail.com'><u>@wongaiden812@gmail.com</u></a> :) )</li> */}
         <li className=" mt-3 list-time"> When I am not coding my next project, I like to spend my time reading books, playing minecraft or watching football games.</li>
         <li className=" mt-3 list-star"> And I also have expertise in Artificial Intelligence & Computer Vision!</li>
       </ul>
@@ -163,18 +163,18 @@ function Education() {
       <ul className=" w-10/12  mt-4 ml-4 px-0 md:px-1">
         <li className="list-disc">
           <div className=" text-lg md:text-xl text-left font-bold leading-tight">
-            Bachelor's Degree in Software Engineering
+            Bachelor's Degree in Computer Science
           </div>
-          <div className=" text-sm md:text-base">Singapore Institute of Technology</div>
-          <div className=" text-sm text-gray-400 mt-0.5">2010 - 2014</div>
+          <div className=" text-sm md:text-base">Hong Kong University of Science & Technology</div>
+          <div className=" text-sm text-gray-400 mt-0.5">2014 - 2018</div>
         </li>
-        <li className="list-disc mt-3">
+        {/* <li className="list-disc mt-3">
           <div className=" text-lg md:text-xl text-left font-bold leading-tight">
             Master's Degree in Software Engineering
           </div>
           <div className=" text-sm md:text-base">National University of Singapore</div>
           <div className=" text-sm text-gray-400 mt-0.5">2014 - 2018</div>
-        </li>
+        </li> */}
       </ul>
     </>
   )
@@ -190,9 +190,9 @@ function Skills() {
         </div>
       </div>
       <ul className=" tracking-tight text-sm md:text-base w-10/12 emoji-list">
-        <li className=" list-arrow text-sm md:text-base mt-4 leading-tight tracking-tight">
+        {/* <li className=" list-arrow text-sm md:text-base mt-4 leading-tight tracking-tight">
           <div> My areas of expertise are <strong className="text-ubt-gedit-orange">Web development & AI/ML</strong></div>
-        </li>
+        </li> */}
         <li className=" list-arrow text-sm md:text-base mt-4 leading-tight tracking-tight">
           <div>Here are my most frequently used</div>
         </li>
@@ -205,20 +205,20 @@ function Skills() {
         <div className="px-2 w-1/2">
           <div className="flex flex-wrap justify-center items-start w-full mt-2">
             <a href="https://www.cplusplus.com/" target="_blank"><img className="m-1" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" width="30" alt="aiden c++" /></a>
-            <a href="https://www.rust-lang.org/" target="_blank"><img className="m-1" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" width="30" alt="aiden Rust" /></a>
+            {/* <a href="https://www.rust-lang.org/" target="_blank"><img className="m-1" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" width="30" alt="aiden Rust" /></a> */}
             <a href="https://www.ruby-lang.org/en/" target="_blank"><img className="m-1" src="https://profilinator.rishav.dev/skills-assets/ruby-original-wordmark.svg" width="30" alt="aiden Ruby" /></a>
             <a href="https://www.javascript.com/" target="_blank"><img className="m-1" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" width="30" alt="aiden javascript" /></a>
             <a href="https://www.typescriptlang.com/" target="_blank"><img className="m-1" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" width="30" alt="aiden typescript" /></a>
-            <a href="https://www.python.org/" target="_blank"><img className="m-1" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" width="30" alt="aiden python" /></a>
+            {/* <a href="https://www.python.org/" target="_blank"><img className="m-1" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" width="30" alt="aiden python" /></a> */}
             <a href="https://www.php.net/" target="_blank"><img className="m-1" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" width="30" alt="aiden php" /></a>
-            <a href="https://dart.dev/" target="_blank"><img className="m-1" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" width="30" alt="aiden dart" /></a>
+            {/* <a href="https://dart.dev/" target="_blank"><img className="m-1" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" width="30" alt="aiden dart" /></a> */}
             <a href="https://www.google.com/search?q=is+html+a+language%3F" target="_blank" rel="noreferrer"><img title="yes it's a language!" className="m-1" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="aiden HTML" /></a>
             <a href="https://sass-lang.com/" target="_blank"><img className="m-1" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" width="30" alt="aiden SASS" /></a>
             <a href="https://graphql.org/" target="_blank"><img className="m-1" src="https://profilinator.rishav.dev/skills-assets/graphql.png" width="30" alt="aiden graphql" /></a>
             <a href="https://github.com/" target="_blank"><img className="m-1" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" width="30" alt="aiden git" /></a>
-            <a href="https://firebase.google.com/" target="_blank"><img className="m-1" src="https://profilinator.rishav.dev/skills-assets/firebase.png" width="30" alt="aiden firebase" /></a>
+            {/* <a href="https://firebase.google.com/" target="_blank"><img className="m-1" src="https://profilinator.rishav.dev/skills-assets/firebase.png" width="30" alt="aiden firebase" /></a> */}
             <a href="https://www.nginx.com/" target="_blank"><img className="m-1" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" width="30" alt="aiden nginx" /></a>
-            <a href="https://www.tensorflow.org/" target="_blank"><img className="m-1" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" width="30" alt="aiden tensorflow" /></a>
+            {/* <a href="https://www.tensorflow.org/" target="_blank"><img className="m-1" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" width="30" alt="aiden tensorflow" /></a> */}
             <a href="https://www.mysql.com/" target="_blank"><img className="m-1" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" width="30" alt="aiden mysql" /></a>
             <a href="https://www.postgresql.org/" target="_blank"><img className="m-1" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" width="30" alt="aiden postgresql" /></a>
             <a href="https://www.mongodb.com/" target="_blank"><img className="m-1" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" width="30" alt="aiden mongodb" /></a>
@@ -236,18 +236,18 @@ function Skills() {
             <a href="https://astro.build/" target="_blank"><img className="m-1" src="https://profilinator.rishav.dev/skills-assets/astro.svg" width="30" alt="aiden remix" /></a>
             <a href="https://turbo.build/" target="_blank"><img className="m-1" src="/images/logos/turbo-logo-dark.svg" width="30" alt="aiden turbo" /></a>
             <a href="https://rubyonrails.org/" target="_blank"><img className="m-1" src="https://profilinator.rishav.dev/skills-assets/rails-original-wordmark.svg" width="30" alt="aiden ruby on rail" /></a>
-            <a href="https://flask.palletsprojects.com/" target="_blank"><img className="m-1" src="https://profilinator.rishav.dev/skills-assets/flask.png" width="30" alt="aiden flask" style={{ backgroundColor: "white" }} /></a>
-            <a href="https://reactnative.dev/" target="_blank"><img className="m-1" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" width="30" alt="aiden react" /></a>
-            <a href="https://www.ionicframework.com/" target="_blank"><img className="m-1" src="https://profilinator.rishav.dev/skills-assets/ionic.svg" width="30" alt="aiden ionic" /></a>
+            {/* <a href="https://flask.palletsprojects.com/" target="_blank"><img className="m-1" src="https://profilinator.rishav.dev/skills-assets/flask.png" width="30" alt="aiden flask" style={{ backgroundColor: "white" }} /></a> */}
+            {/* <a href="https://reactnative.dev/" target="_blank"><img className="m-1" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" width="30" alt="aiden react" /></a> */}
+            {/* <a href="https://www.ionicframework.com/" target="_blank"><img className="m-1" src="https://profilinator.rishav.dev/skills-assets/ionic.svg" width="30" alt="aiden ionic" /></a> */}
             <a href="https://redux.js.org/" target="_blank"><img className="m-1" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" width="30" alt="aiden redux" /></a>
             <a href="https://jquery.com/" target="_blank"><img className="m-1" src="https://profilinator.rishav.dev/skills-assets/jquery.png" width="30" alt="aiden jquery" /></a>
             <a href="https://www.tailwindcss.com/" target="_blank"><img className="m-1" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" width="30" alt="aiden tailwindcss" /></a>
             <a href="https://nodejs.org/" target="_blank"><img className="m-1" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" width="30" alt="aiden node.js" /></a>
             <a href="https://expressjs.com/" target="_blank"><img className="m-1" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" width="30" alt="aiden express" style={{ backgroundColor: "white" }} /></a>
             <a href="https://nestjs.com/" target="_blank"><img className="m-1" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" width="30" alt="aiden nest.js" /></a>
-            <a href="https://www.djangoproject.com/" target="_blank"><img className="m-1" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" width="30" alt="aiden django" /></a>
+            {/* <a href="https://www.djangoproject.com/" target="_blank"><img className="m-1" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" width="30" alt="aiden django" /></a> */}
             <a href="https://laravel.com/" target="_blank"><img className="m-1" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" width="30" alt="aiden laravel" /></a>
-            <a href="https://pytorch.org/" target="_blank"><img className="m-1" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" width="30" alt="aiden pytorch" /></a>
+            {/* <a href="https://pytorch.org/" target="_blank"><img className="m-1" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" width="30" alt="aiden pytorch" /></a> */}
           </div>
         </div>
       </div>
@@ -302,6 +302,33 @@ function Skills() {
 function Projects() {
   const project_list = [
     {
+      name: "coachio",
+      date: "Aug 2020",
+      link: "https://coach.io/",
+      description: [
+        "Get Real Advice Today from Skilled Experts and Mentors",
+      ],
+      domains: ["Laravel", "Vue", "Firebase", "Bootstrap"]
+    },
+    {
+      name: "Delivery e-commerce web",
+      date: "July 2021",
+      link: "https://jjdvans.com/",
+      description: [
+        "On-demand Moving and Furniture Delivery Service Website",
+      ],
+      domains: ["React", "PWA", "Firebase", "Google Maps"]
+    },
+    {
+      name: "Experience the future of storytelling.",
+      date: "Oct 2022",
+      link: "https://chroniclehq.com/",
+      description: [
+        "On-demand Moving and Furniture Delivery Service Website",
+      ],
+      domains: ["Next.js", "GraphQL", "Firebase", "TailwindCSS", "Node.js"]
+    },
+    {
       name: "Portfolio 2023",
       date: "Apr 2023",
       link: "https://github.com/aidenwong812/Portfolio-2023",
@@ -310,15 +337,15 @@ function Projects() {
       ],
       domains: ["javascript", "next.js", "tailwindcss"]
     },
-    {
-      name: "React vite tailwindcss template",
-      date: "Nov 2023",
-      link: "https://github.com/aidenwong812/React-vite-tailwindcss-daisyui-typescript-template",
-      description: [
-        "This is the React Vite Tailwindcss template",
-      ],
-      domains: ["typescript", "react", "tailwindcss"]
-    },
+    // {
+    //   name: "React vite tailwindcss template",
+    //   date: "Nov 2023",
+    //   link: "https://github.com/aidenwong812/React-vite-tailwindcss-daisyui-typescript-template",
+    //   description: [
+    //     "This is the React Vite Tailwindcss template",
+    //   ],
+    //   domains: ["typescript", "react", "tailwindcss"]
+    // },
     {
       name: "Character Walk",
       date: "Jan 2024",
@@ -337,68 +364,6 @@ function Projects() {
       ],
       domains: ["typescript", "Next.js", "Astro", "MDX"]
     },
-    // {
-    //   name: "Ad Free Spotify",
-    //   date: "Jun 2021",
-    //   link: "https://github.com/vivek9patel/ad-free-spotify",
-    //   description: [
-    //     "Chrome extension to automatically mute/unmute Spotify tab when Advertisement starts and ends!",
-    //   ],
-    //   domains: ["javascript", "chrome-extension"]
-    // },
-    // {
-    //   name: "economist.com Unlocked",
-    //   date: "Mar 2021",
-    //   link: "https://github.com/vivek9patel/economist.com-unlocked",
-    //   description: [
-    //     "A chrome extension to read Paid Articles for Free & with no Ads, no subscription, no memberships!",
-    //   ],
-    //   domains: ["javascript", "chrome-extension"]
-    // },
-    // {
-    //   name: "Flutter banking app",
-    //   date: "Jan 2021",
-    //   link: "https://github.com/vivek9patel/flutter-banking-app",
-    //   description: [
-    //     "A Flutter & Firebase project for creating transactions between different Users and displaying the history of transactions done by all.",
-    //   ],
-    //   domains: ["flutter", "firestore", "dart", "firebase auth"]
-    // },
-    // {
-    //   name: "CPU scheduling application",
-    //   date: "Dec 2020",
-    //   link: "https://github.com/vivek9patel/CPU-Scheduling-APP-React-Native",
-    //   description: [
-    //     "React Native Application to visualize the CPU Scheduling algorithms with different Processes and Animations with gannt chart.",
-    //   ],
-    //   domains: ["react-native", "javascript"]
-    // },
-    // {
-    //   name: "Meditech Healthcare WebApp",
-    //   date: "Nov 2020",
-    //   link: "https://github.com/vivek9patel/Meditech-Healthcare",
-    //   description: [
-    //     "Developed Web Application to predict and diagnose diseases from x-ray images.",
-    //   ],
-    //   domains: ["javascript", "html5", "sass", "firebase", "tensorflow"]
-    // },
-    // {
-    //   name: "Problem Recommendation System",
-    //   date: "Sep 2020",
-    //   link: "https://github.com/vivek9patel/Improve-Codeforces",
-    //   description: [
-    //     "Django web application to suggest practice problems from the areas in which the user struggles to get pass in code-forces.",
-    //   ],
-    //   domains: ["django", "python", "codeforces-api", "javascript"]
-    // },
-    // {
-    //   name: "Cleanliness Automation",
-    //   date: "Dec 2019",
-    //   link: "https://github.com/vivek9patel/CPU-Scheduling-APP-React-Native",
-    //   description: [
-    //     "Developed Web Applications to automate Garbage collection and extraction systems for SSIP hackathon",
-    //   ],
-    // }
   ];
 
   const tag_colors = {
@@ -476,6 +441,6 @@ function Projects() {
 }
 function Resume() {
   return (
-    <iframe className="h-full w-full" src="./files/AidenWongResume.pdf" title="aiden wong resume" frameBorder="0"></iframe>
+    <iframe className="h-full w-full" src="./files/Aiden Wong-laravel.pdf" title="aiden wong resume" frameBorder="0"></iframe>
   )
 }
