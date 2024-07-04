@@ -347,11 +347,11 @@ function Projects() {
     //   domains: ["typescript", "react", "tailwindcss"]
     // },
     {
-      name: "Character Walk",
+      name: "3D P2E Game",
       date: "Jan 2024",
-      link: "https://github.com/aidenwong812/character-walk-three.js",
+      link: "https://github.com/aidenwong812/chicken-game",
       description: [
-        "This is the three.js character walk in town.",
+        "This is 3D P2E game built with three.js.",
       ],
       domains: ["typescript", "three.js"]
     },
@@ -441,6 +441,6 @@ function Projects() {
 }
 function Resume() {
   return (
-    <iframe className="h-full w-full" src="./files/Aiden Wong-laravel.pdf" title="aiden wong resume" frameBorder="0"></iframe>
+    <iframe className="h-full w-full" src="./files/Aiden's Resume.pdf" title="aiden wong resume" frameBorder="0"></iframe>
   )
 }

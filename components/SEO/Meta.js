@@ -20,12 +20,12 @@ export default function Meta() {
             <meta name="theme-color" content="#E95420" />
 
             /* Search Engine */
-            <meta name="image" content="images/logos/fevicon.png" />
+            <meta name="image" content="images/logos/favicon.png" />
             /* Schema.org for Google */
             <meta itemProp="name" content="Aiden Wong Portfolio - Senior Software Engineer" />
             <meta itemProp="description"
                 content="Aiden Wong's (aidenwong812) Personal Portfolio Website. Made with Ubuntu 20.4 (Linux) theme by Next.js and Tailwind CSS." />
-            <meta itemProp="image" content="images/logos/fevicon.png" />
+            <meta itemProp="image" content="images/logos/favicon.png" />
             /* Twitter */
             <meta name="twitter:card" content="summary" />
             <meta name="twitter:title" content="Aiden Wong Portfolio - Senior Software Engineer" />
@@ -33,18 +33,18 @@ export default function Meta() {
                 content="Aiden Wong's (aidenwong812) Personal Portfolio Website. Made with Ubuntu 20.4 (Linux) theme by Next.js and Tailwind CSS." />
             <meta name="twitter:site" content="aidenwong812" />
             <meta name="twitter:creator" content="aidenwong812" />
-            <meta name="twitter:image:src" content="images/logos/logo_1024.png" />
+            <meta name="twitter:image:src" content="images/logos/logo.png" />
             /* Open Graph general (Facebook, Pinterest & Google+) */
             <meta name="og:title" content="Aiden Wong Portfolio - Computer Engineering Student" />
             <meta name="og:description"
                 content="Aiden Wong's (aidenwong812) Personal Portfolio Website. Made with Ubuntu 20.4 (Linux) theme by Next.js and Tailwind CSS." />
-            <meta name="og:image" content="images/logos/logo_1200.png" />
+            <meta name="og:image" content="images/logos/logo.png" />
             <meta name="og:url" content="https://portfolio-2023-aiden.vercel.app/" />
             <meta name="og:site_name" content="Aiden Wong Personal Portfolio" />
             <meta name="og:locale" content="en_IN" />
             <meta name="og:type" content="website" />
 
-            <link rel="icon" href="images/logos/fevicon.svg" />
+            <link rel="icon" href="images/logos/favicon.svg" />
             <link rel="apple-touch-icon" href="images/logos/logo.png" />
             <link rel="preload" href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap" as="style" />
             <link href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap" rel="stylesheet"></link>
